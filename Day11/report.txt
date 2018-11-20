@@ -1,0 +1,4 @@
+Nikita = 3.83 average for 3 grades
+Jose = 3.70 average for 4 grades
+Ismael = 3.63 average for 3 grades
+Chiang = 3.67 average for 3 grades
